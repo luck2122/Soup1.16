@@ -1,0 +1,7 @@
+name: Hg
+version: '1.0-SNAPSHOT'
+main: de.luck212.hg.main.Main
+api-version: 1.16
+commands:
+  hg:
+    description: Gibt dir ein HG Inventar
